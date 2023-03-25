@@ -1,3 +1,8 @@
+Simplified GUI
+This texture pack mainly simplifies the GUI into a more simple and dark version. This was made fairly quickly therefore, some aspects may not be completed like the scrollbar still being grey or any container GUI or actual in-game stuff.
+
+
+
 --TERMS OF USE--
 
 This texture pack belongs to Minecraft_Kman at Kman@Spatical.com
